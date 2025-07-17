@@ -31,7 +31,7 @@ NUM_SAMPLES = 5000  # Increase for larger datasets
 TRAIN_RATIO = 0.8   # Train/test split ratio
 
 **Key Components**
-1. Simulated Data Generation
+**1. Simulated Data Generation**
 • Generates 5000+ samples covering 63 risk types (56 standard + 7 emerging)
 • Uses dynamic templating for natural language variations
 • Adds realistic noise patterns (10% of samples have empty noise)
